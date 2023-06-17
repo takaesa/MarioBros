@@ -1,1 +1,2 @@
 C:\Users\kuuha\OneDrive\Desktop\game_project\game_project\x64\Debug\game_project.vcxproj.CopyComplete
+C:\Users\kuuha\OneDrive\Desktop\MarioBros\game_project\x64\Debug\game_project.vcxproj.CopyComplete
